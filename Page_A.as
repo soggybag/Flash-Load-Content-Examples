@@ -1,0 +1,1 @@
+﻿package {	import flash.display.*;	import flash.events.*;		public class Page_A extends MovieClip {		public function Page_A() {					}	}}
